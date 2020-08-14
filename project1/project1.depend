@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140582 source:c:\users\aksha\desktop\akshay\project1\main.cpp
+	<tchar.h>
+	<windows.h>
+
+1596628496 source:c:\users\aksha\desktop\akshay\project1\untitled1.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+	<windows.h>
+
